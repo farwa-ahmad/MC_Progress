@@ -1,0 +1,3 @@
+Hello World!!
+Matter of conflict resolved.
+This is at newBranch!

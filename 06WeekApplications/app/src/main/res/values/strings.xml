@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DatabasesApp</string>
+    <string name="activity_status">Activity Status</string>
+    <string name="add_record">Add Record</string>
+    <string name="view_records">View Records</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="enter_id">Enter ID</string>
+</resources>

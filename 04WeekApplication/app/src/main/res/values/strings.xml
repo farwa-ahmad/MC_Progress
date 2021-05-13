@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent_LifeCycle</string>
+    <string name="counter_application">Counter Application</string>
+    <string name="click">Click</string>
+    <string name="application_website">Application Website</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="_0">0</string>
+</resources>

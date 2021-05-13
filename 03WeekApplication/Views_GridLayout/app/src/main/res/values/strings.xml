@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticeApp01_Views</string>
+    <string name="welcome_to_my_first_application">Welcome to my first application!</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="username">Username:</string>
+    <string name="sign_up">Sign up</string>
+</resources>
